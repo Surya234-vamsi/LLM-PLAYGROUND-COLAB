@@ -114,7 +114,3 @@ This project is intended for learning and experimentation.
 Check individual model licenses before production use.
 
 ---
-
-# 🎉 Thank You for Exploring Local LLMs!
-
-If you want a project banner, Gradio UI, FastAPI server, or improved repo structure, just ask!
